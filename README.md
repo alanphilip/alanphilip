@@ -41,16 +41,18 @@ Outside academics and work, I enjoy:
 
 ---
 
-### 🚨 Important Note
-This repository is for **showcase purposes only**.  
-It contains documentation, demo assets, and an overview of my projects.
+### 📄 Project List
 
-➡️ Open each folder to explore documentation for specific projects.
+Visit this link to see all my projects list.
+➡️
+[All My Projects](https://github.com/alanphilip/github_projects_portfolio)
+- It contains documentation, demo assets, and an overview of my projects.
+- Open each folder to explore documentation for specific projects.
 
 ---
-## 📄 Access to Code
-Source code is kept private to protect intellectual property.  
-Recruiters or collaborators may request access by contacting me directly.
+### 🚨 Important Note
+- Source code is kept private. 
+- Recruiters or collaborators may request access by contacting me directly.
 
 ---
 
