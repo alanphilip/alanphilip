@@ -1,7 +1,5 @@
 # Hi there, I’m Alan Philip, and Welcome to my profile page!
 
----
-
 ## 👤 About Me
 
 I’m a Master’s student in Computer Science at **UPenn** with over 5 years of experience in Software Engineering and Quality Assurance. I’m passionate about bridging research and engineering to deliver production‑ready AI solutions for enterprises.
