@@ -46,7 +46,7 @@ Outside academics and work, I enjoy:
 Visit this link to see all my projects list.
 ➡️
 [All My Projects](https://github.com/alanphilip/github_projects_portfolio)
-- It contains documentation, demo assets, and an overview of my projects.
+- It contains documentations, demos, and overview of all my projects.
 - Open each folder to explore documentation for specific projects.
 
 ---
