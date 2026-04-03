@@ -23,20 +23,18 @@ Outside academics and work, I enjoy:
 ---
 
 ### 🔧 Skills & Expertise
-- **Programming:** Python, Java, C/C++, Bash, NodeJS, TS, MATLAB
+- **Programming:** Python, Java, C/C++, Bash, NodeJS, TS
 - **Databases:** MySQL, SQLite, Azure Cosmos DB, Pinecone
-- **AI:** NumPy, pandas, scikit learn, seaborn, Matplotlib, plotly, Streamlit, LangChain, Transformers, Semantic Search, RAG, LLM, Azure AI Foundry, Google AI Studio
-- **ML:** Model Development, Training and Testing, Performance Evaluation and Benchmarking.
+- **AI:** Generative AI, Agentic AI, LangChain, Transformers, Semantic Search, Vector DB, MCP, RAG, LLM, AutoGen.
+- **ML:** Model Development, Training and Testing, Performance Evaluation and Benchmarking. 
+-- NumPy, pandas, scikit learn, seaborn, Matplotlib, plotly
 - **Functional/ Regression/ UI/ Automation Testing:** Selenium, Playwright
 - **Backend/ API Testing:** Postman, SOAPUI, Rest Assured, Swagger, FAST API
 - **Performance Testing:** Azure Load Testing, JMeter, LoadRunner
 - **Unit/ Integration Testing:** PyTest, Junit, TestNG
 - **AI driven Testing:** testRigor
-- **Containerization:** Docker
 - **Cloud:** Azure, AWS, Google Cloud
-- **Automated workflows:** Jenkins, GitHub Actions
-- **Version Control:** Git
-- **Project Management Tools:** Azure DevOps, Jira, Confluence, Version One, Microfocus ALM
+- **Tools:** Azure DevOps, JIRA, Confluence, Version One, Microfocus ALM, Streamlit, Azure AI Foundry, Google AI Studio, Docker, Git, CI/CD (GitHub Actions, Jenkins), MATLAB.
 - **Methodologies:** Agile/Scrum, PDLC, SDLC, STLC, DevOps
 
 ---
