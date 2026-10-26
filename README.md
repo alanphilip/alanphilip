@@ -41,12 +41,16 @@ Outside academics and work, I enjoy:
 
 ### 📄 Project List
 
-Visit this link to see all my projects list.
-➡️
-[My Projects]
-  AI Course Assistant - (https://github.com/alanphilip/github_projects_portfolio/tree/18a8abdfb5c31328f016cffb56998f8924500cbc/AI-Course-Assistant)
-- It contains documentations, demos, and overview of all my projects.
-- Open each folder to explore documentation for specific projects.
+Visit this link to see all my projects list. ➡️ [My Projects]
+- AI Course Assistant - https://github.com/alanphilip/github_projects_portfolio/tree/18a8abdfb5c31328f016cffb56998f8924500cbc/AI-Course-Assistant
+- Red-Teaming-and-Vulnerability-Assessment-in-LLM-Evaluation-Pipelines - https://github.com/alanphilip/github_projects_portfolio/tree/18a8abdfb5c31328f016cffb56998f8924500cbc/Red-Teaming-and-Vulnerability-Assessment-in-LLM-Evaluation-Pipelines
+- Online Clothing Store - https://github.com/alanphilip/github_projects_portfolio/tree/18a8abdfb5c31328f016cffb56998f8924500cbc/Clothing_Store_API
+- Multi-Agent PDLC Assistant - https://github.com/alanphilip/github_projects_portfolio/tree/18a8abdfb5c31328f016cffb56998f8924500cbc/multiagent-pdlc-assistant
+- Azure ML Prompt Flow on Web Classification - https://github.com/alanphilip/github_projects_portfolio/tree/18a8abdfb5c31328f016cffb56998f8924500cbc/azure_ML_prompt_flow
+
+It contains documentations, demos, and overview of all my projects.
+
+Open each folder to explore documentation for specific projects.
 
 ---
 ### 🚨 Important Note
