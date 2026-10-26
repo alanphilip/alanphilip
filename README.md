@@ -43,7 +43,8 @@ Outside academics and work, I enjoy:
 
 Visit this link to see all my projects list.
 ➡️
-[All My Projects](https://github.com/alanphilip/github_projects_portfolio)
+[My Projects]
+  AI Course Assistant - (https://github.com/alanphilip/github_projects_portfolio/tree/18a8abdfb5c31328f016cffb56998f8924500cbc/AI-Course-Assistant)
 - It contains documentations, demos, and overview of all my projects.
 - Open each folder to explore documentation for specific projects.
 
